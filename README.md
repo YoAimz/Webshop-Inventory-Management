@@ -10,9 +10,9 @@ This project is a database management system for an online webshop that sells cl
 - **Category Management**: Supports multiple categories for products, allowing for easy searching and organization.
 
 ## Preview
-<img src="https://github.com/user-attachments/assets/e4789fea-0ab7-4397-b9d3-354380865847" alt="ER Diagram" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/e4789fea-0ab7-4397-b9d3-354380865847" alt="ER Diagram" width="800" height="400">
 
-<img src="https://github.com/user-attachments/assets/501d5427-27a1-44d1-a291-036dda65da02" alt="Relational Model" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/501d5427-27a1-44d1-a291-036dda65da02" alt="Relational Model" width="800" height="400">
 
 ## Specifications
 
